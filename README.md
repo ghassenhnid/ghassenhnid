@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghassenhnid&label=Profile%20views&color=0e75b6&style=flat" alt="ghassenhnid" /> </p>
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **React.js**
 
 - 👨‍💻 All of my projects are available at [https://ghassenhnid.com/](https://ghassenhnid.com/)
 
-- 📝 I regularly write articles on [https://blog.ghassenhnid.com/](https://blog.ghassenhnid.com/)
+- 📝 I regularly write articles on [https://ghassenhnid.medium.com/](https://ghassenhnid.medium.com/)
 
 - 💬 Ask me about **Symfony, Flask**
 
