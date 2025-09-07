@@ -7,15 +7,15 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 👨‍💻 All of my projects are available at [https://ghassenhnid.com/](https://ghassenhnid.com/)
+- 👨‍💻 All of my projects here
 
-- 📝 I regularly write articles on [https://ghassenhnid.medium.com/](https://ghassenhnid.medium.com/)
+- 📝 I write articles on [https://ghassenhnid.medium.com/](https://ghassenhnid.medium.com/)
 
 - 💬 Ask me about **Symfony, Flask**
 
-- 📫 How to reach me **contact@ghassenhnid.com**
+- 📫 How to reach me **hnidghassen@gmail.com**
 
-- 📄 Know about my experiences [https://ghassenhnid.com/](https://ghassenhnid.com/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/ghassen-hnid/](https://www.linkedin.com/in/ghassen-hnid/)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
