@@ -1,40 +1,108 @@
-<img src="https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966">
-<h1 align="center">Hi 👋, I'm Ghassen HNID</h1>
-<h3 align="center">A passionate developer and programmer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<!-- =========================
+     Ghassen HNID — Profile README
+     Modern • Clean • Handcrafted
+     (GitHub README supports HTML, but blocks JS execution)
+========================== -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ghassenhnid&label=Profile%20views&color=0e75b6&style=flat" alt="ghassenhnid" /> </p>
+<img
+  src="https://indoanalytica.com/static/images/banner.gif"
+  alt="Banner"
+  style="width:100%; max-height:220px; object-fit:cover; border-radius:14px;"
+/>
 
-- 🌱 I’m currently learning **React.js**
-
-- 👨‍💻 All of my projects here
-
-- 📝 I write articles on [https://ghassenhnid.medium.com/](https://ghassenhnid.medium.com/)
-
-- 💬 Ask me about **Symfony, Flask**
-
-- 📫 How to reach me **hnidghassen@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/ghassen-hnid/](https://www.linkedin.com/in/ghassen-hnid/)
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/ghassenhnid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ghassenhnid" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ghassenhnid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ghassenhnid" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/ghassen hnid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ghassen hnid" height="30" width="40" /></a>
-<a href="https://instagram.com/ghassenhnid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ghassenhnid" height="30" width="40" /></a>
+<h1 align="center" style="margin-top:14px;">Hi 👋, I'm Ghassen HNID</h1>
+<p align="center" style="margin-top:-6px;">
+  Software Engineering Apprentice • Full-Stack (Backend + Frontend) • Systems & Networking
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="mailto:hnidghassen@gmail.com" target="_blank">hnidghassen@gmail.com</a> ·
+  <a href="https://www.linkedin.com/in/ghassen-hnid/" target="_blank">LinkedIn</a> ·
+  <a href="https://ghassenhnid.medium.com/" target="_blank">Medium</a> ·
+  <a href="https://dev.to/ghassenhnid" target="_blank">dev.to</a> ·
+  <a href="https://instagram.com/ghassenhnid" target="_blank">Instagram</a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghassenhnid&show_icons=true&locale=en&layout=compact" alt="ghassenhnid" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ghassenhnid&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ghassenhnid&show_icons=true&locale=en" alt="ghassenhnid" /></p>
+<hr />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ghassenhnid&" alt="ghassenhnid" /></p>
+<table>
+  <tr>
+    <td width="62%" valign="top">
 
+### About
+
+I build reliable applications end-to-end: backend services, APIs, databases, and clean user interfaces.  
+I like structured engineering, maintainable code, and real-world problem solving.
+
+### Focus
+
+- Full-Stack development (backend + frontend)
+- Backend architecture, APIs, databases
+- Systems & networking fundamentals (TCP/IP, concurrency, non-blocking I/O)
+
+### Stack (daily drivers)
+
+**Languages**: Python, Java, C#, JavaScript, SQL  
+**Frontend**: React, Vue, HTML, CSS  
+**Backend**: Flask, .NET, Symfony  
+**Data**: PostgreSQL, PostGIS, MySQL  
+**Tools**: Git, Docker, Linux
+
+### What you'll find here
+
+- Coursework and engineering projects
+- Backend services & APIs
+- Networking / systems exercises
+- Web & mobile prototypes
+
+    </td>
+    <td width="38%" valign="top" align="center">
+
+  <img
+    src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
+    alt="Coding"
+    width="320"
+    style="border-radius:14px;"
+  />
+  
+  <br /><br />
+  
+  <b>Quick navigation</b>
+  
+  <a href="https://github.com/ghassenhnid?tab=repositories" target="_blank">Repositories</a> ·
+  <a href="https://github.com/ghassenhnid?tab=projects" target="_blank">Projects</a> ·
+  <p>
+    <img src="https://img.shields.io/github/followers/ghassenhnid?label=Followers&style=flat-square" />
+  </p>
+
+    </td>
+  </tr>
+</table>
+
+<hr />
+
+### Languages & Tools
+
+<p>
+  <!-- Keep it minimal (stable icons only) -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="34" alt="Python" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="34" alt="JavaScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="34" alt="Java" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="34" alt="C#" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="34" alt="React" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" height="34" alt="Vue" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="34" alt="HTML" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="34" alt="CSS" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" height="34" alt="Flask" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" height="34" alt=".NET" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="34" alt="PostgreSQL" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="34" alt="Docker" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="34" alt="Git" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="34" alt="Linux" />
+</p>
+
+<hr />
