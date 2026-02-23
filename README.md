@@ -1,7 +1,6 @@
 <!-- =========================
      Ghassen HNID — Profile README
      Modern • Clean • Handcrafted
-     (GitHub README supports HTML, but blocks JS execution)
 ========================== -->
 
 <img
@@ -10,17 +9,17 @@
   style="width:100%; max-height:220px; object-fit:cover; border-radius:14px;"
 />
 
-<h1 align="center" style="margin-top:14px;">Hi 👋, I'm Ghassen HNID</h1>
-<p align="center" style="margin-top:-6px;">
+<h1 align="center">Hi 👋, I'm Ghassen HNID</h1>
+<p align="center">
   Software Engineering Apprentice • Full-Stack (Backend + Frontend) • Systems & Networking
 </p>
 
 <p align="center">
-  <a href="mailto:hnidghassen@gmail.com" target="_blank">hnidghassen@gmail.com</a> ·
-  <a href="https://www.linkedin.com/in/ghassen-hnid/" target="_blank">LinkedIn</a> ·
-  <a href="https://ghassenhnid.medium.com/" target="_blank">Medium</a> ·
-  <a href="https://dev.to/ghassenhnid" target="_blank">dev.to</a> ·
-  <a href="https://instagram.com/ghassenhnid" target="_blank">Instagram</a>
+  <a href="mailto:hnidghassen@gmail.com">hnidghassen@gmail.com</a> ·
+  <a href="https://www.linkedin.com/in/ghassen-hnid/">LinkedIn</a> ·
+  <a href="https://ghassenhnid.medium.com/">Medium</a> ·
+  <a href="https://dev.to/ghassenhnid">dev.to</a> ·
+  <a href="https://instagram.com/ghassenhnid">Instagram</a>
 </p>
 
 <p align="center">
@@ -36,7 +35,7 @@
 ### About
 
 I build reliable applications end-to-end: backend services, APIs, databases, and clean user interfaces.  
-I like structured engineering, maintainable code, and real-world problem solving.
+I value structured engineering, maintainable code, and real-world problem solving.
 
 ### Focus
 
@@ -68,13 +67,14 @@ I like structured engineering, maintainable code, and real-world problem solving
     width="320"
     style="border-radius:14px;"
   />
-  
+
   <br /><br />
-  
-  <b>Quick navigation</b>
-  
-  <a href="https://github.com/ghassenhnid?tab=repositories" target="_blank">Repositories</a> ·
-  <a href="https://github.com/ghassenhnid?tab=projects" target="_blank">Projects</a> ·
+
+  <b>Quick navigation</b><br />
+
+  <a href="https://github.com/ghassenhnid?tab=repositories">Repositories</a> ·
+  <a href="https://github.com/ghassenhnid?tab=projects">Projects</a>
+
   <p>
     <img src="https://img.shields.io/github/followers/ghassenhnid?label=Followers&style=flat-square" />
   </p>
@@ -88,7 +88,6 @@ I like structured engineering, maintainable code, and real-world problem solving
 ### Languages & Tools
 
 <p>
-  <!-- Keep it minimal (stable icons only) -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="34" alt="Python" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="34" alt="JavaScript" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="34" alt="Java" />
